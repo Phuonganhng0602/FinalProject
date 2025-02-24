@@ -19,7 +19,11 @@ class User:
         pass
     def edit_account_info():
         pass
-    
+    def get_id():
+        pass
+    def get_username():
+        pass
+
 
 
 
